@@ -1,0 +1,4 @@
+#Thu Jan 11 12:43:11 GMT 2024
+base.0=/Users/norbertkross/Documents/dev/apps.flutter/bloc_app_test/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
