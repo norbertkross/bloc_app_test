@@ -4,7 +4,7 @@
 ## App Screeshots
 
 
-![Screenshot1](https://raw.githubusercontent.com/norbertkross/bloc_app_test/main/Simulator%20Screenshot%20-%20iPhone%2015%20-%202024-01-11%20at%2013.43.43.png)
+![Screenshot1](https://raw.githubusercontent.com/norbertkross/bloc_app_test/main/Simulator%20Screenshot%20-%20iPhone%2015%20-%202024-01-11%20at%2013.56.54.png)
 
 
 ![Screenshot2](https://raw.githubusercontent.com/norbertkross/bloc_app_test/main/Simulator%20Screenshot%20-%20iPhone%2015%20-%202024-01-11%20at%2013.43.43.png)
